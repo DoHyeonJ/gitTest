@@ -11,8 +11,6 @@ public class Main
         {
 			Console.WriteLine("ForLoop");
         }
-
-		Console.WriteLine("test_commit_other_user");
 		
 		Console.WriteLine("test_commit_other_user2");
 		
